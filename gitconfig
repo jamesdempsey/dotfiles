@@ -25,3 +25,6 @@
   autosquash = true
 [include]
   path = ~/.gitconfig.local
+[user]
+	name = James Dempsey
+	email = james.e.dempsey@gmail.com

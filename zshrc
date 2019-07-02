@@ -99,3 +99,6 @@ _load_settings "$HOME/.zsh/configs"
 
 # Local config
 [[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
+
+
+export PATH="$HOME/.yarn/bin:$PATH"
